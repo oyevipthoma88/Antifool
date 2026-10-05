@@ -17,6 +17,10 @@
       "description": "Bot Token from @BotFather",
       "required": true
     },
+    "SESSION_STRING": {
+      "description": "Pyrogram user session string",
+      "required": true
+    },
     "ADMIN_ID": {
       "description": "Your Telegram User ID",
       "required": true
