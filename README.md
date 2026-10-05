@@ -1,5 +1,7 @@
 # Telegram VC Monitor + Safe Network Diagnostics (Termux)
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/oyevipthoma88/Antifool)
+
 > This project is designed for **defensive monitoring and diagnostics only**. It does **not** support public-target DDoS behavior. UDP/TCP diagnostics are restricted to private/loopback/reserved ranges.
 
 ## What this rewrite provides
